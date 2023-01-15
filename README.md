@@ -12,6 +12,8 @@ The two-way mirrors were cut by a local glass supplier (8 inches x 8 inches x ~6
 
 Uses a NodeMCU ESP8266 board.
 
+To view more lighting modes, see [Images](https://github.com/rowel-eshan/Hypercube/tree/main/Images "Images")
+
 <img src="https://github.com/rowel-eshan/Hypercube/blob/main/Images/20220306_215124.jpg" width=50% height=40%>
 
 Uses an Android app to control the modes of the cube and other lights in my room.
