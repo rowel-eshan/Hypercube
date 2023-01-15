@@ -12,4 +12,6 @@ The two-way mirrors were cut by a local glass supplier (8 inches x 8 inches x ~6
 
 Uses a NodeMCU ESP8266 board.
 
+<img src="https://github.com/rowel-eshan/Hypercube/blob/main/Images/20220306_215124.jpg" width=80% height=80%>
+
 
